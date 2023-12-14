@@ -1,0 +1,24 @@
+body{font-size: 20px;}
+
+
+.principal{text-align: center;
+    background-color: grey;}
+
+.alinhar{text-align: center;}
+
+.destaque{color: red ;}
+
+.imagem{width: 100%;}
+
+.lista{ display: inline-block;
+    vertical-align: top;
+     margin-right: 15%;
+
+}
+
+.imagem_beneficios{
+    width: 50%;
+}
+   
+
+.titulo.principal{ padding-left: 20px;}
